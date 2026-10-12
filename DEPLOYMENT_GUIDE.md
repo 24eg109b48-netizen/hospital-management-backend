@@ -46,3 +46,4 @@ Test registration, login, dashboards, doctor/patient records, and appointments. 
 
 ## Security note
 This is a student-project deployment configuration. API access rules in the existing app are permissive and should be reviewed before any real patient data is used. Do not use real patient information in a public demo.
+
